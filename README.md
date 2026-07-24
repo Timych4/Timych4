@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Tsimafei 👋
 
-<!--
-**Timych4/Timych4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack SaaS Developer
 
-Here are some ideas to get you started:
+I build modern web applications with a focus on performance, scalability and clean architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm building **BOMZ** — a real-time SaaS platform for crypto market analytics, alerts and trading tools.
+
+---
+
+## 🚀 Tech Stack
+
+**Frontend**
+
+- React
+- Next.js
+- TypeScript
+
+**Backend**
+
+- Node.js
+- Fastify
+- PostgreSQL
+- Redis
+
+**Infrastructure**
+
+- Docker
+- Nginx
+- Linux
+- WebSocket
+
+---
+
+## 🔨 Current Focus
+
+- Building production-ready SaaS applications
+- Real-time data processing
+- High-performance backend systems
+- API design
+- Trading platforms
+
+---
+
+## 🌐 Links
+
+- Website: https://bomz.net
+- LinkedIn: https://www.linkedin.com/in/tsimafei-charniak-972ab134b
+
+---
+
+Thanks for visiting my profile!
